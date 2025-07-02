@@ -16,7 +16,7 @@ A safe and easy-to-use desktop app for renaming hundreds of files at once.
 5. Preview the changes
 6. Commit the rename when ready
 
-![Application Screenshot](screenshot.png) *Screenshot will be added later*
+![Application Screenshot](screenshot.png)
 
 ## Installation
 No installation required - just Python 3 and Tkinter
